@@ -1,6 +1,6 @@
 Library Management Web Application (Java + Servlet + JDBC)
 
-This project is a simple Book Management System built using Java, JDBC, Servlets, and Oracle DB. It allows an administrator to add books and search/view book details stored in a database.
+This project is a simple Library Management System built using Java, JDBC, Servlets, and Oracle DB. It allows an administrator to add books and search/view book details stored in a database.
 
 Features: Add new books with: ISBN Book Name Book Type (General / Technical) Author Cost Fetch and display book details by ISBN Author details retrieved from database Input validation at service layer MVC-style structure using Beans, DAO, Service, and Servlets
 
